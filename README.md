@@ -1,2 +1,2 @@
-# crcak.py
+# crcak
 Wellcome to my github
